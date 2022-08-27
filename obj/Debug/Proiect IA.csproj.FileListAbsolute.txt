@@ -1,0 +1,10 @@
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\obj\Debug\Proiect IA.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\obj\Debug\Proiect_IA.Form1.resources
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\obj\Debug\Proiect_IA.Properties.Resources.resources
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\obj\Debug\Proiect IA.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\obj\Debug\Proiect IA.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\bin\Debug\Proiect IA.exe.config
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\bin\Debug\Proiect IA.exe
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\bin\Debug\Proiect IA.pdb
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\obj\Debug\Proiect IA.exe
+C:\Users\Alex\Desktop\Facultate\An3Sem2\Inteligenta artificiala\Proiect\proiect-ia\obj\Debug\Proiect IA.pdb
