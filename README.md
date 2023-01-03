@@ -1,1 +1,1 @@
-# Hostage-Chess
+# HostageChess
